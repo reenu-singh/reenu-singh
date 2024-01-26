@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I developed a library management system in my high school in BASIC. I have industrial design and research experience of two decades. I have found myself coming to programing again.
+- ⚡ Fun fact: I developed a library management system in my high school in BASIC. I have industrial design and research experience of two decades and now I have found myself coming to programing again.
 
 <!---
 reenu-singh/reenu-singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
